@@ -24,11 +24,8 @@ const ENABLE_THINKING_MODE = true; // Set to true to enable chat_template_kwargs
 const MODEL_MAPPING = {
   'deepseek-r1-0528': 'deepseek-ai/deepseek-r1-0528',
   'deepseek-v3.1-terminus': 'deepseek-ai/deepseek-v3.1-terminus',
-  'gpt-4-turbo': 'moonshotai/kimi-k2-instruct-0905',
   'deepseek-v3.1': 'deepseek-ai/deepseek-v3.1',
-  'claude-3-opus': 'openai/gpt-oss-120b',
-  'claude-3-sonnet': 'openai/gpt-oss-20b',
-  'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
+  'deepseek-v3.2': 'deepseek-ai/deepseek-v3.2' 
 };
 
 // Health check endpoint
