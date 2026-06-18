@@ -25,7 +25,8 @@ const MODEL_MAPPING = {
   'deepseek-r1-0528': 'deepseek-ai/deepseek-r1-0528',
   'deepseek-v3.1-terminus': 'deepseek-ai/deepseek-v3.1-terminus',
   'deepseek-v3.1': 'deepseek-ai/deepseek-v3.1',
-  'deepseek-v3.2': 'deepseek-ai/deepseek-v3.2' 
+  'deepseek-v3.2': 'deepseek-ai/deepseek-v3.2',
+  'kimi-k2.6': 'moonshotai/kimi-k2.6'
 };
 
 // Health check endpoint
